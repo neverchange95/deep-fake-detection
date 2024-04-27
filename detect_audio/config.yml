@@ -1,0 +1,5 @@
+model_dir: "models"
+model_name: "ShallowCNN"
+feature_name: "lfcc"
+audio_dir: "data"
+output_file: "submission.csv"
