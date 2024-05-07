@@ -1,0 +1,8 @@
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Python bytecode files
+__pycache__
+
+# Ignore content of detect_video/models folder
+detect_video/models/*
