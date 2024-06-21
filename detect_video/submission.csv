@@ -1,6 +1,6 @@
-filename,label
-aagfhgtpmv.mp4,0.9883
-aapnvogymq.mp4,0.9893
-abarnvbtwb.mp4,0.01677
-abofeumbvv.mp4,0.9844
-abqwwspghj.mp4,0.99
+filename,prediction
+WDR_Fake.mp4,0.1066
+video_1.mp4,0.01886
+video_1_gen.mp4,0.9863
+video_2.mp4,0.009094
+video_2_gen.mp4,0.991

@@ -1,9 +1,9 @@
 # Detect Deep-Fake-Audios
 
-### Best pretrained model:
+### Install Dependencies:
 
 ```
-models/pretrained/ShallowCNN_lfcc_I/best.pt
+pip install -r requirements.txt
 ```
 
 ### Run the detector with default configuration:

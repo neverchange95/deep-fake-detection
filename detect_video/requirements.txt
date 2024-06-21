@@ -1,0 +1,11 @@
+torch
+timm
+torchvision
+opencv-python-headless
+numpy
+pillow
+albumentations
+facenet-pytorch
+argparse
+pyyaml
+pandas

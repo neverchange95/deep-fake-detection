@@ -6,6 +6,12 @@
 sh download_models.sh
 ```
 
+### Install Dependencies:
+
+```
+pip install -r requirements.txt
+```
+
 ### Run the detector with default configuration:
 
 ```
