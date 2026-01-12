@@ -1,3 +1,3 @@
 # Detecting Deepfakes in Video- and Audiomaterial
 
-[Report](report.pdf)
+Contains a audio and video deep fake prediction on two deep learning models
